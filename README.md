@@ -1,4 +1,4 @@
-<div align='center'><img src='/src/logo.svg'/></div>
+
 
 <h2>Screenshots of the Project 📸</h2>
 <br>
